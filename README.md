@@ -44,10 +44,6 @@ SQL Server · Power BI
 🔹 Built an interactive Power BI dashboard to visualize customer behavior, sales performance, and RFM metrics<br>
 </ul>
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
-
-
 ## 🛠️ Skills
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
