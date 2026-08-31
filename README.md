@@ -17,10 +17,8 @@ This template is set up to showcase your best work. You can easily customize the
 ### Telecom Customer Churn Analysis
 <b>Description:</b><br>
 An end-to-end customer churn analysis project focused on identifying churn patterns and potential churn drivers. The project involved data cleaning and transformation using SQL, data analysis and visualization through Power BI, and building a Random Forest model in Python to predict potential future churners.
-
 <b>Tools Used:</b><br>
 SQL Server · Excel · Power BI · Python
-
 <b>Key Insights:</b>
 <ul>
 🔹 Analyzed churn across demographics, geography, account information, contracts, payment methods, tenure, and services<br>
