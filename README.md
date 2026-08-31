@@ -15,7 +15,7 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Telecom Customer Churn Analysis
-<b>Description:</b>
+<b>Description:</b><br>
 An end-to-end customer churn analysis project focused on identifying churn patterns and potential churn drivers. The project involved data cleaning and transformation using SQL, data analysis and visualization through Power BI, and building a Random Forest model in Python to predict potential future churners.
 
 <b>Tools Used:</b><br>
