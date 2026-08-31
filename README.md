@@ -15,8 +15,19 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Telecom Customer Churn Analysis
-*A brief description of your project, the tools used, and the key insights derived.*
+Description:
+An end-to-end customer churn analysis project focused on identifying churn patterns and potential churn drivers. The project involved data cleaning and transformation using SQL, data analysis and visualization through Power BI, and building a Random Forest model in Python to predict potential future churners.
 
+Tools Used:
+SQL Server · Excel · Power BI · Python
+
+<b>Key Insights:</b>
+<ul>
+🔹 Analyzed churn across demographics, geography, account information, contracts, payment methods, tenure, and services
+🔹 Identified customer characteristics and patterns associated with churn
+🔹 Examined churn categories and reasons to highlight potential areas for customer retention strategies
+🔹 Built a predictive model to identify customers potentially at risk of churning
+</ul>
 ### Sales RFM Analysis
 *A brief description of your project, the tools used, and the key insights derived.*
 
