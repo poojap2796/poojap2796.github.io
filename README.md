@@ -23,10 +23,10 @@ SQL Server · Excel · Power BI · Python
 
 <b>Key Insights:</b>
 <ul>
-🔹 Analyzed churn across demographics, geography, account information, contracts, payment methods, tenure, and services
-🔹 Identified customer characteristics and patterns associated with churn
-🔹 Examined churn categories and reasons to highlight potential areas for customer retention strategies
-🔹 Built a predictive model to identify customers potentially at risk of churning
+🔹 Analyzed churn across demographics, geography, account information, contracts, payment methods, tenure, and services<br>
+🔹 Identified customer characteristics and patterns associated with churn<br>
+🔹 Examined churn categories and reasons to highlight potential areas for customer retention strategies<br>
+🔹 Built a predictive model to identify customers potentially at risk of churning<br>
 </ul>
 
 ### Sales RFM Analysis
