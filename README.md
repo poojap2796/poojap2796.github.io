@@ -1,6 +1,6 @@
 # Pooja Pai - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+This repository showcases my projects in data visualization, business intelligence, and analytics.
 
 ## About This Portfolio Template
 
@@ -14,10 +14,10 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
+### Telecom Customer Churn Analysise
 *A brief description of your project, the tools used, and the key insights derived.*
 
-### Project Title Two
+### Sales RFM Analysis
 *A brief description of your project, the tools used, and the key insights derived.*
 
 ### Project Title Three
