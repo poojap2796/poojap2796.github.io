@@ -44,6 +44,38 @@ SQL Server · Power BI
 🔹 Built an interactive Power BI dashboard to visualize customer behavior, sales performance, and RFM metrics<br>
 </ul>
 
+### 🏠 Airbnb Performance Analysis
+<b>Description:</b><br>
+A global market performance analysis project that explores Airbnb listing trends, pricing, customer ratings, reviews, and seasonal patterns across major cities. The analysis provides insights into market performance, property types, customer experience, and host trust.
+
+<b>Tools Used:</b><br>
+SQL Server · Power BI 
+
+<b>Key Insights:</b>
+<ul>
+🔹 Analyzed Airbnb listings, hosts, property types, and customer reviews across 10 major cities<br>
+🔹 Compared market performance, pricing, and listing distribution across different cities and property types<br>
+🔹 Evaluated customer ratings across metrics such as cleanliness, communication, location, and value<br>
+🔹 Identified seasonal review patterns and travel trends across different markets<br>
+🔹 Examined host verification and profile information as indicators of trust<br>
+</ul>
+
+### 🛒 Blinkit Retail Sales Analysis
+<b>Description:</b><br>
+A retail sales analysis project focused on evaluating sales performance across product categories, outlet types, outlet sizes, and locations. The dashboard provides an overview of key retail metrics and helps identify sales trends and outlet performance.
+
+<b>Tools Used:</b><br>
+SQL Server · Power BI 
+
+<b>Key Insights:</b>
+<ul>
+🔹 Analyzed key metrics including total sales, average sales, number of items, and customer ratings<br>
+🔹 Evaluated sales performance across different product categories and item types<br>
+🔹 Compared outlet performance based on outlet type, size, and location<br>
+🔹 Analyzed outlet establishment trends to understand sales distribution over time<br>
+🔹 Built an interactive dashboard to visualize retail performance and key business metrics<br>
+</ul>
+
 ## 🛠️ Skills
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
