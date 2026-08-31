@@ -14,7 +14,7 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Telecom Customer Churn Analysise
+### Telecom Customer Churn Analysis
 *A brief description of your project, the tools used, and the key insights derived.*
 
 ### Sales RFM Analysis
