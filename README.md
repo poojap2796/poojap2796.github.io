@@ -29,7 +29,7 @@ SQL Server · Excel · Power BI · Python
 🔹 Built a predictive model to identify customers potentially at risk of churning<br>
 </ul>
 
-### 🛍️Sales RFM Analysis
+### 🛍️ Sales RFM Analysis
 <b>Description:</b><br>
 A customer segmentation project that analyzes transactional sales data using SQL and Recency, Frequency, and Monetary (RFM) metrics. The analysis identifies customer purchasing behavior and groups customers into meaningful segments to support targeted marketing and customer retention strategies.
 
