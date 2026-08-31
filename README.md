@@ -14,7 +14,7 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Telecom Customer Churn Analysis
+### 📱Telecom Customer Churn Analysis
 <b>Description:</b><br>
 An end-to-end customer churn analysis project focused on identifying churn patterns and potential churn drivers. The project involved data cleaning and transformation using SQL, data analysis and visualization through Power BI, and building a Random Forest model in Python to predict potential future churners.
 
@@ -29,8 +29,20 @@ SQL Server · Excel · Power BI · Python
 🔹 Built a predictive model to identify customers potentially at risk of churning<br>
 </ul>
 
-### Sales RFM Analysis
-*A brief description of your project, the tools used, and the key insights derived.*
+### 🛍️Sales RFM Analysis
+<b>Description:</b><br>
+A customer segmentation project that analyzes transactional sales data using SQL and Recency, Frequency, and Monetary (RFM) metrics. The analysis identifies customer purchasing behavior and groups customers into meaningful segments to support targeted marketing and customer retention strategies.
+
+<b>Tools Used:</b><br>
+SQL Server · Power BI 
+
+<b>Key Insights:</b>
+<ul>
+🔹 Segmented customers into groups such as Champions, Loyal Customers, Big Spenders, At Risk, and Lost<br>
+🔹 Identified high-value and highly engaged customers based on purchasing recency, frequency, and spending<br>
+🔹 Highlighted potentially at-risk customers to support targeted retention strategies<br>
+🔹 Built an interactive Power BI dashboard to visualize customer behavior, sales performance, and RFM metrics<br>
+</ul>
 
 ### Project Title Three
 *A brief description of your project, the tools used, and the key insights derived.*
